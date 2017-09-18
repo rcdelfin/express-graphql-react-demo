@@ -1,5 +1,5 @@
 # graphql demo
-Full-stack GraphQL demo with React, Redux and Apollo
+Full-stack GraphQL demo with React, Express and Apollo
 
 a fork from https://github.com/apollographql/graphql-tutorial
 
